@@ -1,3 +1,5 @@
+package dining_philosophers;
+
 public class Philosopher extends Thread {
 
   private ChopStick leftChop;
